@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Editor / tool settings
+.claude/
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
